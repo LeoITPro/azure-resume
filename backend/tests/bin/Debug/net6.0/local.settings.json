@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureResumeConnectionString":"AccountEndpoint=https://leoitpro-azure-resume.documents.azure.com:443/;AccountKey=Giv5NXOTFjZg8veQKQqeZvvAGkRAACyuYgae1X32g8WSmmSazma8U5A9WXQb87ccRkpikD0fj2k8kMkV5ScLyw==;"
+  },
+  "Host":
+  {
+    "CORS": "*"
+  }
+}
